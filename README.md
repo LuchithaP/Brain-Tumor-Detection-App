@@ -39,9 +39,4 @@ Please acknowledge the dataset authors if you use this dataset in your work.
 
 ---
 
-## ⚙️ Installation
 
-1. **Clone this repository**  
-   ```bash
-   git clone https://github.com/yourusername/brain-tumor-detection.git
-   cd brain-tumor-detection
